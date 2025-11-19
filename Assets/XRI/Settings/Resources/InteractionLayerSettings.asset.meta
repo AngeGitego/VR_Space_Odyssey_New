@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 6079c823ca3c30d43996e11ad39c8dfd
+=======
+guid: f4e21a11012fa8c41978ca075cced166
+>>>>>>> origin/bridget-final
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
