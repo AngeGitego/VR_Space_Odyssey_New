@@ -343,11 +343,14 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   worldOffset:
     m_OverrideState: 1
     m_Value: {x: 0, y: 0, z: 0}
 =======
 >>>>>>> origin/bridget-final
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
 --- !u!114 &-1216621516061285780
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -469,10 +472,15 @@ MonoBehaviour:
   - {fileID: 7518938298396184218}
   - {fileID: -1410297666881709256}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   - {fileID: -7750755424749557576}
   - {fileID: -5139089513906902183}
 >>>>>>> origin/bridget-final
+=======
+  - {fileID: -7750755424749557576}
+  - {fileID: -5139089513906902183}
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
 --- !u!114 &853819529557874667
 MonoBehaviour:
   m_ObjectHideFlags: 3

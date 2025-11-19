@@ -25,8 +25,13 @@ RenderSettings:
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
   m_AmbientMode: 0
+<<<<<<< HEAD
   m_SubtractiveShadowColor: {r: 0.3096973, g: 0.41321823, b: 0.6754716, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: 9bb8e016faf29c741835c367f2ddfbef, type: 2}
+=======
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -119,6 +124,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!4 &39782669 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4103310470163434, guid: baebbc833ecda42dd8a75966c9f62420, type: 3}
@@ -1137,6 +1143,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
 --- !u!1 &1234580201
 GameObject:
   m_ObjectHideFlags: 0
@@ -1147,7 +1155,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1234580203}
   - component: {fileID: 1234580202}
+<<<<<<< HEAD
   - component: {fileID: 1234580204}
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -1235,6 +1246,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1234580204
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1746,6 +1758,8 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1155987375}
   m_SourcePrefab: {fileID: 100100000, guid: 5d1442ad8c11442988e0eca5d8af73f0, type: 3}
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
 --- !u!1 &1965251209
 GameObject:
   m_ObjectHideFlags: 0
@@ -1757,8 +1771,11 @@ GameObject:
   - component: {fileID: 1965251212}
   - component: {fileID: 1965251211}
   - component: {fileID: 1965251210}
+<<<<<<< HEAD
   - component: {fileID: 1965251214}
   - component: {fileID: 1965251213}
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1840,6 +1857,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1965251213
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1926,15 +1944,20 @@ MonoBehaviour:
   sun: {fileID: 106248499}
   orbitSpeed: 30
   rotationSpeed: 25
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1965251212}
   - {fileID: 1234580203}
+<<<<<<< HEAD
   - {fileID: 1322867632}
   - {fileID: 1195154976}
   - {fileID: 1812433546}
   - {fileID: 1328856369}
   - {fileID: 1217792579}
   - {fileID: 989615496}
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118

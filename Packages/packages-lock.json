@@ -20,6 +20,9 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
     "com.unity.cinemachine": {
       "version": "3.1.5",
       "depth": 0,
@@ -32,10 +35,13 @@
     },
     "com.unity.collab-proxy": {
       "version": "2.10.1",
+<<<<<<< HEAD
 =======
     "com.unity.collab-proxy": {
       "version": "2.9.3",
 >>>>>>> origin/bridget-final
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -71,11 +77,15 @@
     },
     "com.unity.ide.visualstudio": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
       "version": "2.0.23",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
+<<<<<<< HEAD
 =======
       "version": "2.0.25",
       "depth": 0,
@@ -83,6 +93,8 @@
       "dependencies": {
         "com.unity.test-framework": "1.1.31"
 >>>>>>> origin/bridget-final
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
       },
       "url": "https://packages.unity.com"
     },
@@ -168,6 +180,9 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
     "com.unity.settings-manager": {
       "version": "2.1.0",
       "depth": 2,
@@ -175,8 +190,11 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 =======
 >>>>>>> origin/bridget-final
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
     "com.unity.shadergraph": {
       "version": "17.2.0",
       "depth": 1,
@@ -187,6 +205,9 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
     "com.unity.splines": {
       "version": "2.8.2",
       "depth": 1,
@@ -198,8 +219,11 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 =======
 >>>>>>> origin/bridget-final
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
     "com.unity.test-framework": {
       "version": "1.6.0",
       "depth": 0,
@@ -261,7 +285,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.interaction.toolkit": {
+<<<<<<< HEAD
       "version": "3.2.2",
+=======
+      "version": "3.2.1",
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -277,6 +305,9 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.12",
       "depth": 1,
@@ -299,6 +330,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.xr.oculus": {
       "version": "4.5.2",
       "depth": 0,
@@ -308,6 +340,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
     "com.unity.xr.openxr": {
       "version": "1.15.1",
       "depth": 0,
@@ -320,8 +354,11 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 =======
 >>>>>>> origin/bridget-final
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

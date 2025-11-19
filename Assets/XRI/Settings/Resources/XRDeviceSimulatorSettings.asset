@@ -13,13 +13,19 @@ MonoBehaviour:
   m_Name: XRDeviceSimulatorSettings
   m_EditorClassIdentifier: Unity.XR.Interaction.Toolkit::UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulatorSettings
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_AutomaticallyInstantiateSimulatorPrefab: 1
   m_AutomaticallyInstantiateInEditorOnly: 1
   m_UseClassic: 0
   m_SimulatorPrefab: {fileID: 8135023674665499069, guid: 58d0a4ac86f2348deb02f3880c71378e, type: 3}
 =======
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
   m_AutomaticallyInstantiateSimulatorPrefab: 0
   m_AutomaticallyInstantiateInEditorOnly: 1
   m_UseClassic: 0
   m_SimulatorPrefab: {fileID: 0}
+<<<<<<< HEAD
 >>>>>>> origin/bridget-final
+=======
+>>>>>>> e2cc8abf71df42fdced0028ae2d67820b6f96118
